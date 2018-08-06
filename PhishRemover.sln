@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhishRemover", "PhishRemover\PhishRemover.csproj", "{6232E5BC-EBD6-4DBB-98B5-7E65ED513236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office365", "Office365\Office365.csproj", "{763D5C9E-684C-402E-9BB0-88972F6A6A59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhishRemoverConsole", "PhishRemoverConsole\PhishRemoverConsole.csproj", "{89A88A9A-9D90-450D-BE32-141CC037321C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6232E5BC-EBD6-4DBB-98B5-7E65ED513236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6232E5BC-EBD6-4DBB-98B5-7E65ED513236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6232E5BC-EBD6-4DBB-98B5-7E65ED513236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6232E5BC-EBD6-4DBB-98B5-7E65ED513236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763D5C9E-684C-402E-9BB0-88972F6A6A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763D5C9E-684C-402E-9BB0-88972F6A6A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763D5C9E-684C-402E-9BB0-88972F6A6A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763D5C9E-684C-402E-9BB0-88972F6A6A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A88A9A-9D90-450D-BE32-141CC037321C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A88A9A-9D90-450D-BE32-141CC037321C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A88A9A-9D90-450D-BE32-141CC037321C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A88A9A-9D90-450D-BE32-141CC037321C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
